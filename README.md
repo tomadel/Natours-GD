@@ -1,0 +1,2 @@
+# Natours-GD
+This project is a web application created using Node.js and Express middleware, designed to allow users to create profiles, sign in, and book tours. The application also utilizes SendinBlue to send welcome emails to users and Stripe for payment processing. Admins and guides have the ability to add new tours, while viewers can browse available tours and access location information via Leaflet. The application provides a user-friendly interface for booking tours, making payments, and managing tour information.
